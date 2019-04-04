@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exemplo com Menus</string>
+    <string name="item">Item</string>
+    <string name="abrir">Abrir</string>
+    <string name="salvar">Salvar</string>
+    <string name="novo">Novo</string>
+    <string name="salvar_como">Salvar como</string>
+    <string name="salvar_c_pia">Salvar cópia</string>
+    <string name="item_salvar_copia">Salvar Cópia</string>
+    <string name="item_salvar_como">Salvar Como</string>
+</resources>
